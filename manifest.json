@@ -1,0 +1,18 @@
+{
+  "name": "Neon Bird",
+  "short_name": "NeonBird",
+  "description": "Um jogo arcade neon onde deves desviar-te de obstáculos e recolher moedas.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#87CEEB",
+  "theme_color": "#ff0033",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
